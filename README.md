@@ -1,2 +1,2 @@
 # my-first-repository
-my first repository
+class excercise
